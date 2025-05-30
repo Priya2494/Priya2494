@@ -33,9 +33,9 @@
 
 ## 📄 Resume & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-s-352899327/)  
 [![Email](https://img.shields.io/badge/-Email-green?logo=gmail)](mailto:mailtopriyankasasi@gmail.com)  
-📄 [Download My Resume](https://github.com/Priya2494/Priya2494/raw/main/Priyanka%20resume%202025%20(1).pdf) <!-- Placeholder – upload required -->
+📄 [Download My Resume](https://github.com/Priya2494/Priya2494/raw/main/Priyanka%20resume%202025%20(1).pdf)
 
 ---
 
@@ -49,4 +49,3 @@
 ---
 
 _“The best code is the code that works and is easy to change.”_
-
