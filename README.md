@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanka — a Remote .NET Developer
 
-🎯 9.8 years of professional experience building scalable enterprise solutions with ASP.NET, C#, and SQL Server. I focus on clean architecture, CI/CD, and cloud-native development.
+💻 9.8 years of experience building enterprise-grade applications using ASP.NET, C#, EF Core, SQL Server, and Azure. Passionate about clean code, cloud deployment, CI/CD pipelines, and mentoring teams.
 
 ---
 
@@ -12,29 +12,41 @@
 ![SQL Server](https://img.shields.io/badge/-SQL--Server-informational?style=flat&logo=microsoftsqlserver)
 ![Azure](https://img.shields.io/badge/-Azure-informational?style=flat&logo=microsoftazure)
 ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-informational?style=flat&logo=githubactions)
+![Angular](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🔹 [Remote Timesheet API](https://github.com/Priya2494/Remote-Timesheet-API)
 
-✅ .NET 8 Web API  
-✅ Swagger UI  
-✅ SQL Server LocalDB  
-✅ EF Core  
-✅ CI/CD with GitHub Actions  
-✅ Deployed to Azure
+- .NET 8 Web API + EF Core + SQL Server
+- Swagger UI documentation
+- CI/CD pipeline with GitHub Actions
+- **✅ Deployed on Azure**
 
-🔗 **Live API**: [https://timesheetapi-priyanka.azurewebsites.net/swagger/index.html](https://timesheetapi-priyanka.azurewebsites.net/swagger/index.html)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK-HERE)
-[![Email](https://img.shields.io/badge/-Email-green?logo=gmail)](mailto:YOUR-EMAIL@gmail.com)
+🔗 **Live Swagger Demo:**  
+[https://timesheetapi-priyanka.azurewebsites.net/swagger/index.html](https://timesheetapi-priyanka.azurewebsites.net/swagger/index.html)
 
 ---
 
-_Always learning. Always building. Let’s connect!_
+## 📄 Resume & Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+[![Email](https://img.shields.io/badge/-Email-green?logo=gmail)](mailto:mailtopriyankasasi@gmail.com)  
+📄 [Download My Resume](https://github.com/Priya2494/Priya2494/assets/your-username/resume.pdf) <!-- Placeholder – upload required -->
+
+---
+
+## ✨ About Me
+
+- 💼 Technical Specialist @ IBM
+- 🧠 Love solving tough .NET problems with clean architecture
+- 🗣️ Strong communicator and cross-functional team mentor
+- 🚀 On a mission to grow in remote-first development roles
+
+---
+
+_“The best code is the code that works and is easy to change.”_
+
