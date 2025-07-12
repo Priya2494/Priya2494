@@ -35,7 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-s-352899327/)  
 [![Email](https://img.shields.io/badge/-Email-green?logo=gmail)](mailto:mailtopriyankasasi@gmail.com)  
-📄 [Download My Resume](https://github.com/Priya2494/Priya2494/raw/main/Priyanka%20resume%202025%20(1).pdf)
+📄 [Download My Resume](https://github.com/Priya2494/Priya2494/blob/main/Priyanka%20Resume%202025%20(1).pdf)
 
 ---
 
